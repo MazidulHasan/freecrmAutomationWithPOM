@@ -24,7 +24,7 @@ public class TestUtil extends TestBase{
 	static Sheet sheet;
 	
 	
-	public static String TESTDATA_SHEET_PATH = "C:\\Users\\ThunderStrike\\eclipse-workspace\\FreeCRMTest\\src\\main\\java\\com\\crm\\qa\\testdata\\FreeCrmTestData.xlsx";
+	public static String TESTDATA_SHEET_PATH = "C:\\Users\\ThunderStrike\\git\\freecrmAutomationWithPOM\\FreeCRMTest\\src\\main\\java\\com\\crm\\qa\\testdata\\FreeCrmTestData.xlsx";
 	
 	public void switchToFrame() {
 		//we can use the switch to frame option here

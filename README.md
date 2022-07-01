@@ -53,6 +53,10 @@
   &nbsp;&nbsp;Testng.xml file<br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holds the extent report listener from ExtentReporterNG of report listener package<br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can make this type of file as many as we want according to our test cases. Example: smoke, regression, etc.<br />
+  &nbsp;&nbsp;Log4jproperties<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Need to add this log4jproperties file exactly in this name and location.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here we can add the name of the log file, set the size of the file, etc.<br />
+
 **Test-output**<br />
   &nbsp;&nbsp;Holds all the output of the generated results<br />
 **Screenshot**<br />
